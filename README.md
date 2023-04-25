@@ -15,8 +15,8 @@ I'm a front-end developer with a focus on creating user-friendly interfaces for 
 - 🤔 &nbsp;Learning and Exploring new technologies.
 - 💼 &nbsp; Curently learning React/Redux
 - 🌱 &nbsp; - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.😊
-- ✍️ &nbsp; Readin books 📔 & Music 🎧.
-⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+- ✍️ &nbsp; Readin books 📔 & Music 🎧
+- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
