@@ -5,16 +5,11 @@ I'm a front-end developer with a focus on creating user-friendly interfaces for 
 </p>
 
 
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-</p>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp;Learning and Exploring new technologies.
-- 💼 &nbsp; Curently learning React/Redux
-- 🌱 &nbsp; - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.😊
+- 💼 &nbsp; I'm curently learning React/Redux
+- 🌱 &nbsp; I'm looking to collaborate on Web Projects🌟
 - ✍️ &nbsp; Readin books 📔 & Music 🎧
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
@@ -37,7 +32,7 @@ I'm a front-end developer with a focus on creating user-friendly interfaces for 
 <br/>
 
 
-<h3> 🤝🏻 &nbsp; Where you can find me ✨</h3>
+<h3> 🤝🏻 &nbsp; How to reach me ✨</h3>
 
 <p align="center">
 <a href="mailto:roheemohmudashir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-roheemohmudashir@gmail.com-blue?style=flat-square&logo=gmail"></a>
