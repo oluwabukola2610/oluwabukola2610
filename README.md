@@ -1,8 +1,8 @@
 <h2> Hey there!👋🫶 </h2>
 I'm a front-end developer with a focus on creating user-friendly interfaces for web applications. I have a strong background in HTML, CSS, and JavaScript, and I'm always looking to expand my skill set and learn new technologies.
-<p align="center">
+<!-- <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
+</p> -->
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
