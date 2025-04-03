@@ -19,7 +19,7 @@
 ✅ **Cloud & DevOps:** AWS, Vercel, Firebase  
 ✅ **Version Control:** Git, GitHub, GitHub Actions  
 
----
+
 
 ## 📌 Featured Projects  
 🔹 **[🚀 CarePulse](https://github.com/oluwabukola2610/carepulse)** – A telemedicine platform with secure authentication & role-based access  
@@ -27,7 +27,7 @@
 🔹 **[🛒 E-Commerce Store](https://github.com/oluwabukola2610/medusa-ecommerce)** – A modern online store built with Medusa.js, featuring a seamless checkout experience and secure authentication.Ï  
 🔹 **[📱 React Native To-Do App](https://github.com/oluwabukola2610/ryde-app)** – A cross-platform ride-hailing app built with **React Native**, featuring **Redux Toolkit** for state management and smooth animations.
 
----
+
 
 ## 🌍 Connect with Me  
 <p align="center">
