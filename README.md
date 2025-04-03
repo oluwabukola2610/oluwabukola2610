@@ -7,7 +7,6 @@
 🔹 Experienced in **React.js** and **Next.js**, with a focus on creating **intuitive, responsive, and accessible** user interfaces.  
 🔹 **Open to collaboration** on **innovative frontend projects** 
 
----
 
 ## 🛠 Tech Stack  
 ✅ **Languages:** JavaScript (ES6+), TypeScript  
