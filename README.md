@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Mudashir Roheemoh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"> -->
 
-
 ## 🧕 About Me    
-
 🔹 I'm a **passionate Frontend Developer** who thrives on building seamless, high-performance web and mobile applications.  
 🔹 Currently exploring **React Native** to create cross-platform mobile apps. Recently, I worked on a project using React Native for an eCommerce app, [Ratokunbo](https://play.google.com/store/apps/details?id=com.ratokunbo.mobile&pli=1).  
 🔹 Experienced in **React.js** and **Next.js**, with a focus on creating **intuitive, responsive, and accessible** user interfaces.  
@@ -26,8 +24,8 @@
 ## 📌 Featured Projects  
 🔹 **[🚀 CarePulse](https://github.com/oluwabukola2610/carepulse)** – A telemedicine platform with secure authentication & role-based access  
 🔹 **[📊 Dashboard Analytics](https://github.com/oluwabukola2610/dashboard-analytics)** – A data visualization dashboard with charts, filters, and API integration  
-🔹 **[🛒 E-Commerce Store](https://github.com/oluwabukola2610/ecommerce-store)** – A modern online store with seamless checkout & authentication  
-🔹 **[📱 React Native To-Do App](https://github.com/oluwabukola2610/react-native-todo)** – A cross-platform to-do app with Redux Toolkit & animations  
+🔹 **[🛒 E-Commerce Store](https://github.com/oluwabukola2610/medusa-ecommerce)** – A modern online store built with Medusa.js, featuring a seamless checkout experience and secure authentication.Ï  
+🔹 **[📱 React Native To-Do App](https://github.com/oluwabukola2610/ryde-app)** – A cross-platform ride-hailing app built with **React Native**, featuring **Redux Toolkit** for state management and smooth animations.
 
 ---
 
